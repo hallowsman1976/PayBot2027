@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+.env.local
+.clasprc.json
+gas/.clasp.json
+# Symlinks into .agents/skills, recreated by the skills CLI from skills-lock.json
+.claude/skills/
+*.tsbuildinfo
